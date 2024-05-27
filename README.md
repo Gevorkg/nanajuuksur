@@ -1,2 +1,2 @@
 # nanajuuksur
-Nanajuuksur Hairsalong Mobile Application
+Nanajuuksur Hairsalon Mobile Application
