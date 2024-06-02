@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1025304285828",
+    "project_id": "nanajuuksur-flutter",
+    "storage_bucket": "nanajuuksur-flutter.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1025304285828:android:f666e3f9f45d41b124a8d1",
+        "android_client_info": {
+          "package_name": "com.example.flutter_ark_test"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCwdN3abcv4zvFfallUxsU5vazLv7he9wA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
