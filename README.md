@@ -1,2 +1,2 @@
 # nanajuuksur
-Nanajuuksur hairsalong Flutter mobile app built with Google firestore
+Nanajuuksur hairsalon Flutter mobile app built with Google firestore
